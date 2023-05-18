@@ -5,6 +5,7 @@
 
 using namespace clang;
 
+
 class ForStmtVisitor : public RecursiveASTVisitor<ForStmtVisitor> {
 public:
     bool VisitForStmt(ForStmt* stmt) {
@@ -38,6 +39,7 @@ public:
 };
 
 int main(int argc, const char** argv) {
+    setlocale(LC_ALL, "Russian");
     if (argc > 1) {
         clang::tooling::runToolOnCode(std::make_unique<ForStmtFrontendAction>(), argv[1]);
     }
