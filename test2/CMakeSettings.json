@@ -1,0 +1,42 @@
+﻿{
+  "configurations": [
+    {
+      "name": "x64-Clang-Debug",
+      "generator": "Ninja",
+      "configurationType": "Debug",
+      "buildRoot": "${projectDir}\\out\\build\\${name}",
+      "installRoot": "${projectDir}\\out\\install\\${name}",
+      "cmakeCommandArgs": "",
+      "buildCommandArgs": "",
+      "ctestCommandArgs": "",
+      "inheritEnvironments": [ "clang_cl_x64_x64" ],
+      "variables": [
+        {
+          "name": "CMAKE_C_COMPILER",
+          "value": "C:/Program Files (x86)/LLVM/bin/clang.exe",
+          "type": "STRING"
+        },
+        {
+          "name": "CMAKE_CXX_COMPILER",
+          "value": "C:/Program Files (x86)/LLVM/bin/clang++.exe",
+          "type": "STRING"
+        },
+        {
+          "name": "CMAKE_NM",
+          "value": "C:/Program Files (x86)/LLVM/bin/llvm-nm.exe",
+          "type": "FILEPATH"
+        },
+        {
+          "name": "CMAKE_LINKER",
+          "value": "C:/Program Files (x86)/LLVM/bin/llvm-link.exe",
+          "type": "FILEPATH"
+        },
+        {
+          "name": "CMAKE_AR",
+          "value": "C:/Program Files (x86)/LLVM/bin/llvm-lib.exe",
+          "type": "FILEPATH"
+        }
+      ]
+    }
+  ]
+}

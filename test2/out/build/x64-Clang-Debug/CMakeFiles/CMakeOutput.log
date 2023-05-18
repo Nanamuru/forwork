@@ -1,0 +1,300 @@
+The system is: Windows - 10.0.22621 - AMD64
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/Program Files (x86)/LLVM/bin/clang-cl.exe 
+Build flags: -m64;-fdiagnostics-absolute-paths
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+
+The CXX compiler identification is Clang, found in "C:/Users/dukea/source/repos/test2/out/build/x64-Clang-Debug/CMakeFiles/3.20.21032501-MSVC_2/CompilerIdCXX/CMakeCXXCompilerId.exe"
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/PROGRAM FILES (X86)/LLVM/bin/clang.exe 
+Build flags: -m64;-fdiagnostics-absolute-paths
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
+
+The C compiler identification is Clang, found in "C:/Users/dukea/source/repos/test2/out/build/x64-Clang-Debug/CMakeFiles/3.20.21032501-MSVC_2/CompilerIdC/a.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/Program Files (x86)/LLVM/bin/clang-cl.exe 
+Build flags: -m64;-fdiagnostics-absolute-paths
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+
+The CXX compiler identification is Clang, found in "C:/Users/dukea/source/repos/test2/out/build/x64-Clang-Debug/CMakeFiles/3.20.21032501-MSVC_2/CompilerIdCXX/CMakeCXXCompilerId.exe"
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/PROGRAM FILES (X86)/LLVM/bin/clang.exe 
+Build flags: -m64;-fdiagnostics-absolute-paths
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
+
+The C compiler identification is Clang, found in "C:/Users/dukea/source/repos/test2/out/build/x64-Clang-Debug/CMakeFiles/3.20.21032501-MSVC_2/CompilerIdC/a.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/Program Files (x86)/LLVM/bin/clang-cl.exe 
+Build flags: -m64;-fdiagnostics-absolute-paths
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+
+The CXX compiler identification is Clang, found in "C:/Users/dukea/source/repos/test2/out/build/x64-Clang-Debug/CMakeFiles/3.20.21032501-MSVC_2/CompilerIdCXX/CMakeCXXCompilerId.exe"
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/PROGRAM FILES (X86)/LLVM/bin/clang.exe 
+Build flags: -m64;-fdiagnostics-absolute-paths
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
+
+The C compiler identification is Clang, found in "C:/Users/dukea/source/repos/test2/out/build/x64-Clang-Debug/CMakeFiles/3.20.21032501-MSVC_2/CompilerIdC/a.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/Program Files (x86)/LLVM/bin/clang-cl.exe 
+Build flags: -m64;-fdiagnostics-absolute-paths
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+
+The CXX compiler identification is Clang, found in "C:/Users/dukea/source/repos/test2/out/build/x64-Clang-Debug/CMakeFiles/3.20.21032501-MSVC_2/CompilerIdCXX/CMakeCXXCompilerId.exe"
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/PROGRAM FILES (X86)/LLVM/bin/clang.exe 
+Build flags: -m64;-fdiagnostics-absolute-paths
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
+
+The C compiler identification is Clang, found in "C:/Users/dukea/source/repos/test2/out/build/x64-Clang-Debug/CMakeFiles/3.20.21032501-MSVC_2/CompilerIdC/a.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/Program Files (x86)/LLVM/bin/clang-cl.exe 
+Build flags: -m64;-fdiagnostics-absolute-paths
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+
+The CXX compiler identification is Clang, found in "C:/Users/dukea/source/repos/test2/out/build/x64-Clang-Debug/CMakeFiles/3.20.21032501-MSVC_2/CompilerIdCXX/CMakeCXXCompilerId.exe"
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/PROGRAM FILES (X86)/LLVM/bin/clang.exe 
+Build flags: -m64;-fdiagnostics-absolute-paths
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
+
+The C compiler identification is Clang, found in "C:/Users/dukea/source/repos/test2/out/build/x64-Clang-Debug/CMakeFiles/3.20.21032501-MSVC_2/CompilerIdC/a.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/Program Files (x86)/LLVM/bin/clang-cl.exe 
+Build flags: -m64;-fdiagnostics-absolute-paths
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+
+The CXX compiler identification is Clang, found in "C:/Users/dukea/source/repos/test2/out/build/x64-Clang-Debug/CMakeFiles/3.20.21032501-MSVC_2/CompilerIdCXX/CMakeCXXCompilerId.exe"
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/PROGRAM FILES (X86)/LLVM/bin/clang.exe 
+Build flags: -m64;-fdiagnostics-absolute-paths
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
+
+The C compiler identification is Clang, found in "C:/Users/dukea/source/repos/test2/out/build/x64-Clang-Debug/CMakeFiles/3.20.21032501-MSVC_2/CompilerIdC/a.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/Program Files (x86)/LLVM/bin/clang-cl.exe 
+Build flags: -m64;-fdiagnostics-absolute-paths
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+
+The CXX compiler identification is Clang, found in "C:/Users/dukea/source/repos/test2/out/build/x64-Clang-Debug/CMakeFiles/3.20.21032501-MSVC_2/CompilerIdCXX/CMakeCXXCompilerId.exe"
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/PROGRAM FILES (X86)/LLVM/bin/clang.exe 
+Build flags: -m64;-fdiagnostics-absolute-paths
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
+
+The C compiler identification is Clang, found in "C:/Users/dukea/source/repos/test2/out/build/x64-Clang-Debug/CMakeFiles/3.20.21032501-MSVC_2/CompilerIdC/a.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/Program Files (x86)/LLVM/bin/clang-cl.exe 
+Build flags: -m64;-fdiagnostics-absolute-paths
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+
+The CXX compiler identification is Clang, found in "C:/Users/dukea/source/repos/test2/out/build/x64-Clang-Debug/CMakeFiles/3.20.21032501-MSVC_2/CompilerIdCXX/CMakeCXXCompilerId.exe"
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/LLVM/bin/clang.exe 
+Build flags: -m64;-fdiagnostics-absolute-paths
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
+
+The C compiler identification is Clang, found in "C:/Users/dukea/source/repos/test2/out/build/x64-Clang-Debug/CMakeFiles/3.20.21032501-MSVC_2/CompilerIdC/a.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/Program Files (x86)/LLVM/bin/clang++.exe 
+Build flags: -m64;-fdiagnostics-absolute-paths
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
+
+The CXX compiler identification is Clang, found in "C:/Users/dukea/source/repos/test2/out/build/x64-Clang-Debug/CMakeFiles/3.20.21032501-MSVC_2/CompilerIdCXX/a.exe"
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/LLVM/bin/clang.exe 
+Build flags: -m64;-fdiagnostics-absolute-paths
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
+
+The C compiler identification is Clang, found in "C:/Users/dukea/source/repos/test2/out/build/x64-Clang-Debug/CMakeFiles/3.20.21032501-MSVC_2/CompilerIdC/a.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/Program Files (x86)/LLVM/bin/clang++.exe 
+Build flags: -m64;-fdiagnostics-absolute-paths
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
+
+The CXX compiler identification is Clang, found in "C:/Users/dukea/source/repos/test2/out/build/x64-Clang-Debug/CMakeFiles/3.20.21032501-MSVC_2/CompilerIdCXX/a.exe"
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/LLVM/bin/clang.exe 
+Build flags: -m64;-fdiagnostics-absolute-paths
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
+
+The C compiler identification is Clang, found in "C:/Users/dukea/source/repos/test2/out/build/x64-Clang-Debug/CMakeFiles/3.20.21032501-MSVC_2/CompilerIdC/a.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/Program Files (x86)/LLVM/bin/clang++.exe 
+Build flags: -m64;-fdiagnostics-absolute-paths
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
+
+The CXX compiler identification is Clang, found in "C:/Users/dukea/source/repos/test2/out/build/x64-Clang-Debug/CMakeFiles/3.20.21032501-MSVC_2/CompilerIdCXX/a.exe"
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/LLVM/bin/clang.exe 
+Build flags: -m64;-fdiagnostics-absolute-paths
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
+
+The C compiler identification is Clang, found in "C:/Users/dukea/source/repos/test2/out/build/x64-Clang-Debug/CMakeFiles/3.20.21032501-MSVC_2/CompilerIdC/a.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/Program Files (x86)/LLVM/bin/clang++.exe 
+Build flags: -m64;-fdiagnostics-absolute-paths
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
+
+The CXX compiler identification is Clang, found in "C:/Users/dukea/source/repos/test2/out/build/x64-Clang-Debug/CMakeFiles/3.20.21032501-MSVC_2/CompilerIdCXX/a.exe"
+
